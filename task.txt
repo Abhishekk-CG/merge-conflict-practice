@@ -1,4 +1,7 @@
 My Tasks
+1. watch
+2. git
+3. tutorial
 1. Practice
 2. merge
 3. conflicts
